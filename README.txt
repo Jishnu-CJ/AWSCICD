@@ -8,7 +8,7 @@ Elastic Container service
 S3 to store the artifacts
 
 
-The basic idea behind the project, once the developer did the code changes and pushed to the Code commit Repo it will trigger and build the corresponding Docker image and store the artifacts into the S3 and also pushed the image to the ECR that we have used for our container registry.
+The basic idea behind the project, once the developer did the code changes and pushed the changes tothe Codecommit Repo it will trigger and build the corresponding Docker image and store the artifacts into the S3 and also pushed the image to the ECR that we are using for our container registry.
 Stages that we are using here for Build and Deploy.
 
 Once the build has been completed,  deployment will be happening in the ECS(Elastic Container Service) behind the Loadbalancers.
