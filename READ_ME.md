@@ -13,8 +13,5 @@ I've divided this project into five steps:
 4. Test the application. 
 5. Cleanup
 
-I've discussed, the cost element in the end, which is almost zero under free-tier (except for ECS).
 
-You can follow this post to have a walkthrough of this demo.
 
-https://medium.com/@Vineethsai-A/automated-containerization-of-your-application-using-codepipeline-df529df827f2
